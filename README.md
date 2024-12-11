@@ -3,8 +3,8 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
-* Drawer Divider for Akro-Mils organizer
-* Clip-in Holder for WIO Terminal
+* Drawer Divider for Akro-Mils organizer <coming>
+* Clip-in Holder for WIO Terminal <coming>
 
 Feel free to copy, remix, whatever.
 
