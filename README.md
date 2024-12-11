@@ -11,8 +11,8 @@ Feel free to copy, remix, whatever.
 Happy printing to all !
 
 
-**Drawer Divider
+**Drawer Divider**
 ![divider CAD](https://github.com/user-attachments/assets/2465e458-4c6e-415b-b4ae-97c85c79ea86)
 
-**Clip-in Holder for WIO Terminal
+**Clip-in Holder for WIO Terminal**
 ![holder CAD](https://github.com/user-attachments/assets/d291f151-1b1f-4616-8185-e05655683a32)
