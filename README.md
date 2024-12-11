@@ -3,7 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
-* Drawer Divider for Akro-Mils organizer <coming>
+* Drawer Divider for Akro-Mils organizer https://raphtronic.blogspot.com/2024/12/diy-drawer-divider-for-akro-mils.html
 * Clip-in Holder for WIO Terminal <coming>
 
 Feel free to copy, remix, whatever.
@@ -12,7 +12,8 @@ Happy printing to all !
 
 
 **Drawer Divider**
-![divider CAD](https://github.com/user-attachments/assets/2465e458-4c6e-415b-b4ae-97c85c79ea86)
+![divider CAD](https://github.com/user-attachments/assets/6be9e195-4bea-4c1a-8d0e-5c0c8ffdb1e1)
+![20241211_145436 x2048](https://github.com/user-attachments/assets/ece5ee29-a313-4d5c-92b3-454126f8e386)
 
 **Clip-in Holder for WIO Terminal**
 ![holder CAD](https://github.com/user-attachments/assets/d291f151-1b1f-4616-8185-e05655683a32)
