@@ -3,7 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
-* Nozzle brush for 3D printer: 
+* Nozzle brush for 3D printer: https://raphtronic.blogspot.com/2025/09/diy-nozzle-scrubber-3d-print.html
 * Drawer Divider for Akro-Mils organizer https://raphtronic.blogspot.com/2024/12/diy-drawer-divider-for-akro-mils.html
 * Clip-in Holder for WIO Terminal from Seeed Studio https://raphtronic.blogspot.com/2024/12/diy-clip-in-holder-for-wio-terminal.html
 * Holder for 3kg Filament Spools https://raphtronic.blogspot.com/2025/05/diy-3kg-spool-holder-tangled-filament.html
