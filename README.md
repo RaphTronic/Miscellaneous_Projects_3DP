@@ -3,7 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
-* Shelf brckets for filament spools: https://raphtronic.blogspot.com/2025/09/diy-filament-rack-for-vertical-rail.html
+* Shelf brackets for filament spools: https://raphtronic.blogspot.com/2025/09/diy-filament-rack-for-vertical-rail.html
 * Parametric + CCTree + YXPolyer Spool Adapter Ring for Bambu Lab AMS: https://raphtronic.blogspot.com/2025/09/diy-parametric-spool-adapter-ring-for.html
 * Nozzle brush for 3D printer: https://raphtronic.blogspot.com/2025/09/diy-nozzle-scrubber-3d-print.html
 * Drawer Divider for Akro-Mils organizer https://raphtronic.blogspot.com/2024/12/diy-drawer-divider-for-akro-mils.html
@@ -14,7 +14,7 @@ Feel free to copy, remix, whatever.
 
 Happy printing to all !
 
-**helf brckets for filament spools**
+**helf brackets for filament spools**
 ![20250916_155530 all brackets](https://github.com/user-attachments/assets/f574c8ef-e8fa-46ca-83b2-dc6edcf1f7aa)
 ![20250903_181109 crop](https://github.com/user-attachments/assets/b4ebf578-3f8e-4932-9e71-a6633e41d6a6)
 
