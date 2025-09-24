@@ -3,6 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* Parametric + CCTree + YXPolyer Spool Adapter Ring for Bambu Lab AMS: https://raphtronic.blogspot.com/2025/09/diy-parametric-spool-adapter-ring-for.html
 * Nozzle brush for 3D printer: https://raphtronic.blogspot.com/2025/09/diy-nozzle-scrubber-3d-print.html
 * Drawer Divider for Akro-Mils organizer https://raphtronic.blogspot.com/2024/12/diy-drawer-divider-for-akro-mils.html
 * Clip-in Holder for WIO Terminal from Seeed Studio https://raphtronic.blogspot.com/2024/12/diy-clip-in-holder-for-wio-terminal.html
@@ -11,6 +12,10 @@ Details and instructions in the following posts:
 Feel free to copy, remix, whatever.
 
 Happy printing to all !
+
+**Parametric Spool Adapter Ring for Bambu Lab AMS**
+![lip tabs spool adapter](https://github.com/user-attachments/assets/e5d11fac-720c-4ff0-ab87-c0037b4cfbfd)
+![20250923_131613 crop](https://github.com/user-attachments/assets/a2a743fe-79bc-4dc7-8b1f-6d49d331329a)
 
 **Nozzle brush for 3D printer**
 ![fusion 360 nozzle brush](https://github.com/user-attachments/assets/2d49f70d-3d97-4f43-97fa-67623f064a73)
