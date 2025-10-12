@@ -23,8 +23,8 @@ Happy printing to all !
 ![20250923_131613 crop](https://github.com/user-attachments/assets/a2a743fe-79bc-4dc7-8b1f-6d49d331329a)
 
 **Nozzle brush for 3D printer**
-![fusion 360 nozzle brush](https://github.com/user-attachments/assets/2d49f70d-3d97-4f43-97fa-67623f064a73)
-![20250906_111638 crop](https://github.com/user-attachments/assets/b699c7dc-bc41-4032-8700-c4ccb1d9f799)
+![nozzle brush fusion model](https://github.com/user-attachments/assets/dd50ec4f-8cbb-4e49-a59c-ba46cfd296d2)
+![20251011_174142 crop](https://github.com/user-attachments/assets/3fb94168-b4a6-44f4-9de9-81a7e4f76b26)
 
 **Drawer Divider**
 ![divider CAD](https://github.com/user-attachments/assets/6be9e195-4bea-4c1a-8d0e-5c0c8ffdb1e1)
