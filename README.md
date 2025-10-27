@@ -19,7 +19,7 @@ Happy printing to all !
 ![20251025_191646 gauge CAD](https://github.com/user-attachments/assets/68d5dec8-1fc1-46f8-a7ee-22ff2a738d8c)
 ![before after](https://github.com/user-attachments/assets/cd7d0934-c798-48d1-8051-e3199e38d894)
 
-**helf brackets for filament spools**
+**Shelf brackets for filament spools**
 ![20250916_155530 all brackets](https://github.com/user-attachments/assets/f574c8ef-e8fa-46ca-83b2-dc6edcf1f7aa)
 ![20250903_181109 crop](https://github.com/user-attachments/assets/b4ebf578-3f8e-4932-9e71-a6633e41d6a6)
 
