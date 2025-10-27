@@ -3,7 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
-* Nozzle Gauge - map the Nozzle to Bed distance of any 3D printer: https://raphtronic.blogspot.com/2025/10/diy-mapping-nozzle-to-bed-distance-of.html
+* Nozzle-Bed Gauge - map the Nozzle to Bed distances of any 3D printer: https://raphtronic.blogspot.com/2025/10/diy-mapping-nozzle-to-bed-distance-of.html
 * Shelf brackets for filament spools: https://raphtronic.blogspot.com/2025/09/diy-filament-rack-for-vertical-rail.html
 * Parametric + CCTree + YXPolyer Spool Adapter Ring for Bambu Lab AMS: https://raphtronic.blogspot.com/2025/09/diy-parametric-spool-adapter-ring-for.html
 * Nozzle brush for 3D printer: https://raphtronic.blogspot.com/2025/09/diy-nozzle-scrubber-3d-print.html
@@ -15,7 +15,7 @@ Feel free to copy, remix, whatever.
 
 Happy printing to all !
 
-**Nozzle Gauge - bed delta heat map**
+**Nozzle-Bed Gauge - delta heat map**
 ![20251025_191646 gauge CAD](https://github.com/user-attachments/assets/68d5dec8-1fc1-46f8-a7ee-22ff2a738d8c)
 ![before after](https://github.com/user-attachments/assets/cd7d0934-c798-48d1-8051-e3199e38d894)
 
