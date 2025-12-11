@@ -3,6 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* LED bars housing - ceiling lights: https://raphtronic.blogspot.com/2025/12/diy-let-there-be-more-light-3d-print.html
 * Nozzle-Bed Gauge - map the Nozzle to Bed distances of any 3D printer: https://raphtronic.blogspot.com/2025/10/diy-mapping-nozzle-to-bed-distance-of.html
 * Shelf brackets for filament spools: https://raphtronic.blogspot.com/2025/09/diy-filament-rack-for-vertical-rail.html
 * Parametric + CCTree + YXPolyer Spool Adapter Ring for Bambu Lab AMS: https://raphtronic.blogspot.com/2025/09/diy-parametric-spool-adapter-ring-for.html
@@ -14,6 +15,10 @@ Details and instructions in the following posts:
 Feel free to copy, remix, whatever.
 
 Happy printing to all !
+
+**LED Bars Housing - Ceiling Lights**
+![20251210_133520 x2048](https://github.com/user-attachments/assets/ebe6e300-a796-4726-818c-47cb3c34e89b)
+![CAD model](https://github.com/user-attachments/assets/4dd22dde-49b5-4bc3-8f48-1fb1a8941f43)
 
 **Nozzle-Bed Gauge - delta heat map**
 ![20251025_191646 gauge CAD](https://github.com/user-attachments/assets/68d5dec8-1fc1-46f8-a7ee-22ff2a738d8c)
