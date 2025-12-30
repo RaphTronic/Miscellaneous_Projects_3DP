@@ -3,6 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* Wrench Holders - Metric & SAE: 
 * LED bars housing - ceiling lights: https://raphtronic.blogspot.com/2025/12/diy-let-there-be-more-light-3d-print.html
 * Nozzle-Bed Gauge - map the Nozzle to Bed distances of any 3D printer: https://raphtronic.blogspot.com/2025/10/diy-mapping-nozzle-to-bed-distance-of.html
 * Shelf brackets for filament spools: https://raphtronic.blogspot.com/2025/09/diy-filament-rack-for-vertical-rail.html
