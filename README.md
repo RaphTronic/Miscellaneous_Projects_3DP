@@ -3,6 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* Shelf-hanging Spool Holder to direct-feed flexible TPU filament: https://raphtronic.blogspot.com/2026/01/diy-shelf-hanger-for-direct-feeding.html
 * Wrench Holders - Metric & SAE: https://raphtronic.blogspot.com/2025/12/diy-wrench-organizers-3d-print.html
 * LED bars housing - ceiling lights: https://raphtronic.blogspot.com/2025/12/diy-let-there-be-more-light-3d-print.html
 * Nozzle-Bed Gauge - map the Nozzle to Bed distances of any 3D printer: https://raphtronic.blogspot.com/2025/10/diy-mapping-nozzle-to-bed-distance-of.html
@@ -16,6 +17,10 @@ Details and instructions in the following posts:
 Feel free to copy, remix, whatever.
 
 Happy printing to all !
+
+**Spool Shelf Holder**
+![20260126_162547 crop](https://github.com/user-attachments/assets/08d00feb-30a2-457a-bbe3-a97655d1fe40)
+![slicing](https://github.com/user-attachments/assets/008bba7c-b09a-40eb-9730-86db2b61b5f7)
 
 **Wrench Holders**
 ![20251229_153318 x2048](https://github.com/user-attachments/assets/7266f7d8-f4b5-479c-8bd6-759b4ec2f77b)
