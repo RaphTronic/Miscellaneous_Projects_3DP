@@ -3,7 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
-* Harmonic Pin-Ring Cycloidal Drive: https://raphtronic.blogspot.com/2026/03/diy-harmonic-pin-ring-cycloidal-gearbox.html
+* Harmonic Cycloidal Pin-Ring Drive: https://raphtronic.blogspot.com/2026/03/diy-harmonic-pin-ring-cycloidal-gearbox.html
 * Shelf-hanging Spool Holder to direct-feed flexible TPU filament: https://raphtronic.blogspot.com/2026/01/diy-shelf-hanger-for-direct-feeding.html
 * Wrench Holders - Metric & SAE: https://raphtronic.blogspot.com/2025/12/diy-wrench-organizers-3d-print.html
 * LED bars housing - ceiling lights: https://raphtronic.blogspot.com/2025/12/diy-let-there-be-more-light-3d-print.html
@@ -19,7 +19,7 @@ Feel free to copy, remix, whatever.
 
 Happy printing to all !
 
-**Harmonic Pin-Ring Cycloidal Drive**
+**Harmonic Cycloidal Pin-Ring Drive**
 ![20260308_091757 crop](https://github.com/user-attachments/assets/e8d92f41-59ea-46db-a103-dcb73083c223)
 ![pin-ring plate crop](https://github.com/user-attachments/assets/a9283ad7-e9f1-474f-9ebd-8f028a9be334)
 
