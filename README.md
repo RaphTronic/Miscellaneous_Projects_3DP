@@ -21,7 +21,7 @@ Happy printing to all !
 
 **Harmonic Cycloidal Pin-Ring Drive**
 ![20260308_091757 crop](https://github.com/user-attachments/assets/65b45c64-0a29-4982-a773-15bcf4b57091)
-![pin-ring plate crop](https://github.com/user-attachments/assets/a9283ad7-e9f1-474f-9ebd-8f028a9be334)
+![pin-ring plate 2 crop](https://github.com/user-attachments/assets/d8ef3b9e-2424-46fc-aeb0-5a55c198dc24)
 
 **Spool Shelf Holder**
 ![20260126_162547 crop](https://github.com/user-attachments/assets/08d00feb-30a2-457a-bbe3-a97655d1fe40)
