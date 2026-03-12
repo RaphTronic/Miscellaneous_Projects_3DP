@@ -34,7 +34,7 @@ Happy printing to all !
 ![20251210_133520 x2048](https://github.com/user-attachments/assets/ebe6e300-a796-4726-818c-47cb3c34e89b)
 ![CAD model](https://github.com/user-attachments/assets/4dd22dde-49b5-4bc3-8f48-1fb1a8941f43)
 
-**Nozzle-Bed Gauge - delta heat map**
+**Nozzle-Bed Gauge - delta Z map**
 ![20251025_191646 gauge CAD](https://github.com/user-attachments/assets/68d5dec8-1fc1-46f8-a7ee-22ff2a738d8c)
 ![before after](https://github.com/user-attachments/assets/cd7d0934-c798-48d1-8051-e3199e38d894)
 
