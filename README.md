@@ -19,7 +19,7 @@ Feel free to copy, remix, whatever.
 
 Happy printing to all !
 
-**Harmonic Cycloidal Pin-Ring Drive**
+**Harmonic Pin-Ring Drive**
 ![20260308_091757 crop](https://github.com/user-attachments/assets/65b45c64-0a29-4982-a773-15bcf4b57091)
 ![pin-ring plate 2 crop](https://github.com/user-attachments/assets/d8ef3b9e-2424-46fc-aeb0-5a55c198dc24)
 
