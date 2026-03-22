@@ -29,7 +29,7 @@ Happy printing to all !
 ![20260316_172846 crop x2048](https://github.com/user-attachments/assets/e5d1122e-6d07-4287-82a3-37745c9626f5)
 ![attachments](https://github.com/user-attachments/assets/4fc70eff-cf14-4746-ae89-85c2e742faa7)
 
-**Harmonic Pin-Ring Drive**
+**Harmonic Pin-Ring: a new drive type**
 ![20260308_091757 crop](https://github.com/user-attachments/assets/65b45c64-0a29-4982-a773-15bcf4b57091)
 ![pin-ring plate 2 crop](https://github.com/user-attachments/assets/d8ef3b9e-2424-46fc-aeb0-5a55c198dc24)
 
