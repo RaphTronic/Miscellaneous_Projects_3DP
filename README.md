@@ -8,10 +8,10 @@ Details and instructions in the following posts:
 * Harmonic Pin-Ring Drive: https://raphtronic.blogspot.com/2026/03/diy-harmonic-pin-ring-cycloidal-gearbox.html
 * Shelf-hanging Spool Holder for TPU: https://raphtronic.blogspot.com/2026/01/diy-shelf-hanger-for-direct-feeding.html
 * Wrench Holders: https://raphtronic.blogspot.com/2025/12/diy-wrench-organizers-3d-print.html
-* LED bars housing - ceiling lights: https://raphtronic.blogspot.com/2025/12/diy-let-there-be-more-light-3d-print.html
-* Nozzle-Bed Gauge - delta Z mapping: https://raphtronic.blogspot.com/2025/10/diy-mapping-nozzle-to-bed-distance-of.html
+* LED bars housing: https://raphtronic.blogspot.com/2025/12/diy-let-there-be-more-light-3d-print.html
+* Nozzle-Bed Gauge: https://raphtronic.blogspot.com/2025/10/diy-mapping-nozzle-to-bed-distance-of.html
 * Shelf brackets for filament spools: https://raphtronic.blogspot.com/2025/09/diy-filament-rack-for-vertical-rail.html
-* Parametric + CCTree + YXPolyer Spool Adapters: https://raphtronic.blogspot.com/2025/09/diy-parametric-spool-adapter-ring-for.html
+* Parametric Spool Adapters: https://raphtronic.blogspot.com/2025/09/diy-parametric-spool-adapter-ring-for.html
 * Nozzle brush for 3D printer: https://raphtronic.blogspot.com/2025/09/diy-nozzle-scrubber-3d-print.html
 * Drawer Divider for Akro-Mils organizer: https://raphtronic.blogspot.com/2024/12/diy-drawer-divider-for-akro-mils.html
 * Clip-in Holder for WIO Terminal: https://raphtronic.blogspot.com/2024/12/diy-clip-in-holder-for-wio-terminal.html
@@ -52,7 +52,7 @@ Happy printing to all !
 ![20250916_155530 all brackets](https://github.com/user-attachments/assets/f574c8ef-e8fa-46ca-83b2-dc6edcf1f7aa)
 ![20250903_181109 crop](https://github.com/user-attachments/assets/b4ebf578-3f8e-4932-9e71-a6633e41d6a6)
 
-**Parametric Spool Adapter Ring for Bambu Lab AMS**
+**Parametric Spool Adapters (CCTree, YXPolyer...) for Bambu Lab AMS**
 ![lip tabs spool adapter](https://github.com/user-attachments/assets/e5d11fac-720c-4ff0-ab87-c0037b4cfbfd)
 ![20250923_131613 crop](https://github.com/user-attachments/assets/a2a743fe-79bc-4dc7-8b1f-6d49d331329a)
 
