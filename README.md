@@ -3,6 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* The Lazy Winder, a blazing fast respooler: https://raphtronic.blogspot.com/2026/03/diy-lazy-winder-blazing-fast-respooler.html
 * Simple Spool Winder: https://raphtronic.blogspot.com/2026/03/needed-to-quickly-respool-filament-from.html
 * Harmonic Pin-Ring Drive: https://raphtronic.blogspot.com/2026/03/diy-harmonic-pin-ring-cycloidal-gearbox.html
 * Shelf-hanging Spool Holder to direct-feed flexible TPU filament: https://raphtronic.blogspot.com/2026/01/diy-shelf-hanger-for-direct-feeding.html
@@ -19,6 +20,10 @@ Details and instructions in the following posts:
 Feel free to copy, remix, whatever.
 
 Happy printing to all !
+
+**The Lazy Winder, a blazing fast respooler**
+![20260319_104927 crop x2048](https://github.com/user-attachments/assets/5cbcbf06-50c4-4021-8dbc-97e7919bda05)
+![plates x2048](https://github.com/user-attachments/assets/63ffcd47-4d37-4743-8256-b0885a963039)
 
 **Simple Spool Winder**
 ![20260316_172846 crop x2048](https://github.com/user-attachments/assets/e5d1122e-6d07-4287-82a3-37745c9626f5)
