@@ -3,6 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* Split-Ring Hypocyclic Compound gearbox: https://raphtronic.blogspot.com/2026/03/diy-split-ring-hypocyclic-compound.html
 * The Lazy Winder: https://raphtronic.blogspot.com/2026/03/diy-lazy-winder-blazing-fast-respooler.html
 * Simple Spool Winder: https://raphtronic.blogspot.com/2026/03/needed-to-quickly-respool-filament-from.html
 * Harmonic Pin-Ring Drive: https://raphtronic.blogspot.com/2026/03/diy-harmonic-pin-ring-cycloidal-gearbox.html
@@ -20,6 +21,11 @@ Details and instructions in the following posts:
 Feel free to copy, remix, whatever (non-commercially)
 
 Happy printing to all !
+
+**Split-Ring Hypocyclic Compound gearbox**
+![20260324_133021 crop](https://github.com/user-attachments/assets/72bf6310-3874-444a-b6e5-ff087cba8aa3)
+![plates](https://github.com/user-attachments/assets/9c7a9b3a-397c-488b-adac-6fc8fdbd145c)
+
 
 **The Lazy Winder: a blazing fast respooler**
 ![20260319_104927 crop x2048](https://github.com/user-attachments/assets/5cbcbf06-50c4-4021-8dbc-97e7919bda05)
