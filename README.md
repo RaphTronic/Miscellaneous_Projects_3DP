@@ -3,7 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
-* Hex Allen Keys Holder: 
+* Hex Allen Keys Holder: https://raphtronic.blogspot.com/2026/04/diy-hex-allen-keys-holder-metric-3d.html
 * Split-Ring Hypocyclic Compound gearbox: https://raphtronic.blogspot.com/2026/03/diy-split-ring-hypocyclic-compound.html
 * The Lazy Winder: https://raphtronic.blogspot.com/2026/03/diy-lazy-winder-blazing-fast-respooler.html
 * Simple Spool Winder: https://raphtronic.blogspot.com/2026/03/needed-to-quickly-respool-filament-from.html
