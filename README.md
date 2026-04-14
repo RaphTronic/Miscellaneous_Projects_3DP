@@ -3,6 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* Split-Ring Joined-Cycloids Drive: https://raphtronic.blogspot.com/2026/04/diy-split-ring-joined-cycloids-drive-3d.html
 * Hex Allen Keys Holder: https://raphtronic.blogspot.com/2026/04/diy-hex-allen-keys-holder-metric-3d.html
 * Split-Ring Hypocyclic Compound gearbox: https://raphtronic.blogspot.com/2026/03/diy-split-ring-hypocyclic-compound.html
 * The Lazy Winder: https://raphtronic.blogspot.com/2026/03/diy-lazy-winder-blazing-fast-respooler.html
@@ -23,74 +24,64 @@ Feel free to copy, remix, whatever (non-commercially)
 
 Happy printing to all !
 
+**Split-Ring Joined-Cycloids Drive**
+![20260413_181026 crop](https://github.com/user-attachments/assets/100805a6-25d8-4d49-a067-8d53e448d2a6)
+![CAD exploded label](https://github.com/user-attachments/assets/a21c94af-a73b-4d5e-beaa-06e00ebb919e)
+
 **Hex Allen Keys Holder**
 ![20260411_101353 crop](https://github.com/user-attachments/assets/bcdc9234-c245-453a-83d3-1df8d2c558f0)
 ![plate](https://github.com/user-attachments/assets/3123d7f1-e920-471a-aaf3-329385e109e9)
-
 
 **Split-Ring Hypocyclic Compound gearbox**
 ![20260324_133021 crop](https://github.com/user-attachments/assets/72bf6310-3874-444a-b6e5-ff087cba8aa3)
 ![plates](https://github.com/user-attachments/assets/9c7a9b3a-397c-488b-adac-6fc8fdbd145c)
 
-
 **The Lazy Winder: a blazing fast respooler**
 ![20260319_104927 crop x2048](https://github.com/user-attachments/assets/5cbcbf06-50c4-4021-8dbc-97e7919bda05)
 ![plates x2048](https://github.com/user-attachments/assets/63ffcd47-4d37-4743-8256-b0885a963039)
-
 
 **Simple Spool Winder**
 ![20260316_172846 crop x2048](https://github.com/user-attachments/assets/e5d1122e-6d07-4287-82a3-37745c9626f5)
 ![attachments](https://github.com/user-attachments/assets/4fc70eff-cf14-4746-ae89-85c2e742faa7)
 
-
 **Harmonic Pin-Ring: a new drive type**
 ![20260308_091757 crop](https://github.com/user-attachments/assets/65b45c64-0a29-4982-a773-15bcf4b57091)
 ![pin-ring plate 2 crop](https://github.com/user-attachments/assets/d8ef3b9e-2424-46fc-aeb0-5a55c198dc24)
-
 
 **Spool Shelf Holder to direct-feed flexible TPU filament**
 ![20260126_162547 crop](https://github.com/user-attachments/assets/08d00feb-30a2-457a-bbe3-a97655d1fe40)
 ![slicing](https://github.com/user-attachments/assets/008bba7c-b09a-40eb-9730-86db2b61b5f7)
 
-
 **Wrench Holders - Metric & SAE**
 ![20251229_153318 x2048](https://github.com/user-attachments/assets/7266f7d8-f4b5-479c-8bd6-759b4ec2f77b)
-
 
 **LED Bars Housing - Ceiling Lights**
 ![20251210_133520 x2048](https://github.com/user-attachments/assets/ebe6e300-a796-4726-818c-47cb3c34e89b)
 ![CAD model](https://github.com/user-attachments/assets/4dd22dde-49b5-4bc3-8f48-1fb1a8941f43)
 
-
 **Nozzle-Bed Gauge - map the Nozzle to Bed distances of any 3D printer**
 ![20251025_191646 gauge CAD](https://github.com/user-attachments/assets/68d5dec8-1fc1-46f8-a7ee-22ff2a738d8c)
 ![before after](https://github.com/user-attachments/assets/cd7d0934-c798-48d1-8051-e3199e38d894)
-
 
 **Shelf brackets for filament spools**
 ![20250916_155530 all brackets](https://github.com/user-attachments/assets/f574c8ef-e8fa-46ca-83b2-dc6edcf1f7aa)
 ![20250903_181109 crop](https://github.com/user-attachments/assets/b4ebf578-3f8e-4932-9e71-a6633e41d6a6)
 
-
 **Parametric Spool Adapters (CCTree, YXPolyer...) for Bambu Lab AMS**
 ![lip tabs spool adapter](https://github.com/user-attachments/assets/e5d11fac-720c-4ff0-ab87-c0037b4cfbfd)
 ![20250923_131613 crop](https://github.com/user-attachments/assets/a2a743fe-79bc-4dc7-8b1f-6d49d331329a)
-
 
 **Nozzle brush for 3D printer**
 ![nozzle brush fusion model](https://github.com/user-attachments/assets/dd50ec4f-8cbb-4e49-a59c-ba46cfd296d2)
 ![20251011_174142 crop](https://github.com/user-attachments/assets/3fb94168-b4a6-44f4-9de9-81a7e4f76b26)
 
-
 **Drawer Divider**
 ![divider CAD](https://github.com/user-attachments/assets/6be9e195-4bea-4c1a-8d0e-5c0c8ffdb1e1)
 ![20241211_145436 x2048](https://github.com/user-attachments/assets/ece5ee29-a313-4d5c-92b3-454126f8e386)
 
-
 **Clip-in Holder for WIO Terminal from Seeed Studio**
 ![holder CAD](https://github.com/user-attachments/assets/d291f151-1b1f-4616-8185-e05655683a32)
 ![20241211_152406 x2048](https://github.com/user-attachments/assets/66f15c26-7625-4f63-8bdb-9c494a9d9116)
-
 
 **3Kg Spool Holder**
 ![20250528_180559 crop](https://github.com/user-attachments/assets/0bf91369-60e9-4055-83cf-59eabe5c935c)
