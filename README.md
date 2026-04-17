@@ -5,7 +5,7 @@ Repository for the CAD and 3D Print files from various small projects.
 Details and instructions in the following posts:
 * Split-Ring Joined-Cycloids Drive: https://raphtronic.blogspot.com/2026/04/diy-split-ring-joined-cycloids-drive-3d.html
 * Hex Allen Keys Holder: https://raphtronic.blogspot.com/2026/04/diy-hex-allen-keys-holder-metric-3d.html
-* Split-Ring Hypocyclic Compound gearbox: https://raphtronic.blogspot.com/2026/03/diy-split-ring-hypocyclic-compound.html
+* Split-Ring Hypocyclic Compound gearbox (sunless Wolfrom): https://raphtronic.blogspot.com/2026/03/diy-split-ring-hypocyclic-compound.html
 * The Lazy Winder: https://raphtronic.blogspot.com/2026/03/diy-lazy-winder-blazing-fast-respooler.html
 * Simple Spool Winder: https://raphtronic.blogspot.com/2026/03/needed-to-quickly-respool-filament-from.html
 * Harmonic Pin-Ring Drive: https://raphtronic.blogspot.com/2026/03/diy-harmonic-pin-ring-cycloidal-gearbox.html
@@ -32,7 +32,7 @@ Happy printing to all !
 ![20260411_101353 crop](https://github.com/user-attachments/assets/bcdc9234-c245-453a-83d3-1df8d2c558f0)
 ![plate](https://github.com/user-attachments/assets/3123d7f1-e920-471a-aaf3-329385e109e9)
 
-**Split-Ring Hypocyclic Compound gearbox**
+**Split-Ring Hypocyclic Compound gearbox** (sunless Wolfrom)
 ![20260324_133021 crop](https://github.com/user-attachments/assets/72bf6310-3874-444a-b6e5-ff087cba8aa3)
 ![plates](https://github.com/user-attachments/assets/9c7a9b3a-397c-488b-adac-6fc8fdbd145c)
 
