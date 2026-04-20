@@ -3,6 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* Barbell Soft Handle: https://raphtronic.blogspot.com/2026/04/diy-soft-handle-for-threaded-barbell-3d.html
 * Split-Ring Joined-Cycloids Drive: https://raphtronic.blogspot.com/2026/04/diy-split-ring-joined-cycloids-drive-3d.html
 * Hex Allen Keys Holder: https://raphtronic.blogspot.com/2026/04/diy-hex-allen-keys-holder-metric-3d.html
 * Split-Ring Hypocyclic Compound gearbox (sunless Wolfrom): https://raphtronic.blogspot.com/2026/03/diy-split-ring-hypocyclic-compound.html
@@ -23,6 +24,10 @@ Details and instructions in the following posts:
 Feel free to copy, remix, whatever (non-commercially)
 
 Happy printing to all !
+
+**Barbell Soft Handle**
+<img width="1497" height="903" alt="20260420_080204 montage" src="https://github.com/user-attachments/assets/3d5ca78c-d974-413b-8c6b-2b9acc6e42df" />
+<img width="2022" height="1359" alt="plate" src="https://github.com/user-attachments/assets/bbeaf07d-827a-467d-903c-2566a495e218" />
 
 **Split-Ring Joined-Cycloids Drive**
 ![20260413_181026 crop](https://github.com/user-attachments/assets/100805a6-25d8-4d49-a067-8d53e448d2a6)
