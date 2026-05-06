@@ -3,6 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* Dual Cycloidal drive: https://raphtronic.blogspot.com/2026/05/diy-dual-cycloidal-gear-train-with.html
 * Barbell Soft Handle: https://raphtronic.blogspot.com/2026/04/diy-soft-handle-for-threaded-barbell-3d.html
 * Split-Ring Joined-Cycloids Drive: https://raphtronic.blogspot.com/2026/04/diy-split-ring-joined-cycloids-drive-3d.html
 * Hex Allen Keys Holder: https://raphtronic.blogspot.com/2026/04/diy-hex-allen-keys-holder-metric-3d.html
@@ -24,6 +25,10 @@ Details and instructions in the following posts:
 Feel free to copy, remix, whatever (non-commercially)
 
 Happy printing to all !
+
+**Dual Cycloidal drive**
+<img width="1314" height="1362" alt="20260503_150013 both trains" src="https://github.com/user-attachments/assets/b5640b0b-2e42-4b30-aa5a-48eef3f5f128" />
+<img width="2400" height="997" alt="CAD both x2400" src="https://github.com/user-attachments/assets/ee0520e0-3c07-4298-8670-561d42ef7a73" />
 
 **Barbell Soft Handle**
 <img width="1497" height="903" alt="20260420_080204 montage" src="https://github.com/user-attachments/assets/3d5ca78c-d974-413b-8c6b-2b9acc6e42df" />
