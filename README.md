@@ -5,7 +5,7 @@ Repository for the CAD and 3D Print files from various small projects.
 Details and instructions in the following posts:
 * Dual Cycloidal drive: https://raphtronic.blogspot.com/2026/05/diy-dual-cycloidal-gear-train-with.html
 * Barbell Soft Handle: https://raphtronic.blogspot.com/2026/04/diy-soft-handle-for-threaded-barbell-3d.html
-* Split-Ring Joined-Cycloids Drive: https://raphtronic.blogspot.com/2026/04/diy-split-ring-joined-cycloids-drive-3d.html
+* Split-Ring Joined-Cycloids 49:1 Drive: https://raphtronic.blogspot.com/2026/04/diy-split-ring-joined-cycloids-drive-3d.html
 * Hex Allen Keys Holder: https://raphtronic.blogspot.com/2026/04/diy-hex-allen-keys-holder-metric-3d.html
 * Split-Ring Hypocyclic Compound gearbox (sunless Wolfrom): https://raphtronic.blogspot.com/2026/03/diy-split-ring-hypocyclic-compound.html
 * The Lazy Winder: https://raphtronic.blogspot.com/2026/03/diy-lazy-winder-blazing-fast-respooler.html
@@ -34,7 +34,7 @@ Happy printing to all !
 <img width="1497" height="903" alt="20260420_080204 montage" src="https://github.com/user-attachments/assets/3d5ca78c-d974-413b-8c6b-2b9acc6e42df" />
 <img width="2022" height="1359" alt="plate" src="https://github.com/user-attachments/assets/bbeaf07d-827a-467d-903c-2566a495e218" />
 
-**Split-Ring Joined-Cycloids Drive**
+**Split-Ring Joined-Cycloids 49:1 Drive**
 ![20260413_181026 crop](https://github.com/user-attachments/assets/100805a6-25d8-4d49-a067-8d53e448d2a6)
 ![CAD exploded label](https://github.com/user-attachments/assets/a21c94af-a73b-4d5e-beaa-06e00ebb919e)
 
