@@ -3,6 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* Dual Abnormal Cycloidal gear train: https://raphtronic.blogspot.com/2026/06/diy-dual-abnormal-cycloidal-gear-train.html
 * Split-Ring Dual Joined-Cycloids gear train: https://raphtronic.blogspot.com/2026/05/diy-split-ring-dual-joined-cycloids.html
 * Dual Cycloidal drive: https://raphtronic.blogspot.com/2026/05/diy-dual-cycloidal-gear-train-with.html
 * Barbell Soft Handle: https://raphtronic.blogspot.com/2026/04/diy-soft-handle-for-threaded-barbell-3d.html
@@ -26,6 +27,10 @@ Details and instructions in the following posts:
 Feel free to copy, remix, whatever (non-commercially)
 
 Happy printing to all !
+
+**Dual Abnormal Cycloidal gear train**
+<img width="868" height="1027" alt="20260616_140821_001 crop" src="https://github.com/user-attachments/assets/3060f0d3-edd4-41cd-8382-1049bcf562b9" />
+<img width="2158" height="1781" alt="cad" src="https://github.com/user-attachments/assets/16640cc7-737c-491f-a4ec-57458957e863" />
 
 **Split-Ring Dual Joined-Cycloids gear train**
 <img width="815" height="968" alt="20260521_110247 crop bare" src="https://github.com/user-attachments/assets/f7d2747e-afc4-476f-90cc-d263e2fed7d4" />
