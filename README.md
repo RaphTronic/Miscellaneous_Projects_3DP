@@ -3,7 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
-* Motor Torque Tester: https://raphtronic.blogspot.com/2026/06/diy-motor-torque-tester-3d-print.html
+* Simple Motor Torque Tester: https://raphtronic.blogspot.com/2026/06/diy-motor-torque-tester-3d-print.html
 * Dual Abnormal Cycloidal gear train: https://raphtronic.blogspot.com/2026/06/diy-dual-abnormal-cycloidal-gear-train.html
 * Split-Ring Dual Joined-Cycloids gear train: https://raphtronic.blogspot.com/2026/05/diy-split-ring-dual-joined-cycloids.html
 * Dual Cycloidal drive: https://raphtronic.blogspot.com/2026/05/diy-dual-cycloidal-gear-train-with.html
@@ -29,7 +29,7 @@ Feel free to copy, remix, whatever (non-commercially)
 
 Happy printing to all !
 
-**Motor Torque Tester**
+**Simple Motor Torque Tester**
 <img width="845" height="2084" alt="20260630_083635 crop" src="https://github.com/user-attachments/assets/48ec9306-b985-4e2c-8094-3474bdfe07e7" />
 <img width="2043" height="1713" alt="CAD Motor Tester exploded" src="https://github.com/user-attachments/assets/a335c13d-92f0-440d-8c85-161dfa0716df" />
 
