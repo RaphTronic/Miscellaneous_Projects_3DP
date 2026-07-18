@@ -3,6 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* Phone Scan Holder (photogrammetry): https://raphtronic.blogspot.com/2026/07/diy-phone-holder-for-photogrammetry-3d.html
 * Simple Motor Torque Tester: https://raphtronic.blogspot.com/2026/06/diy-motor-torque-tester-3d-print.html
 * Dual Abnormal Cycloidal gear train: https://raphtronic.blogspot.com/2026/06/diy-dual-abnormal-cycloidal-gear-train.html
 * Split-Ring Dual Joined-Cycloids gear train: https://raphtronic.blogspot.com/2026/05/diy-split-ring-dual-joined-cycloids.html
@@ -28,6 +29,10 @@ Details and instructions in the following posts:
 Feel free to copy, remix, whatever (non-commercially)
 
 Happy printing to all !
+
+**Phone Scan Holder (photogrammetry)**
+<img width="1770" height="2749" alt="3 phones rotate" src="https://github.com/user-attachments/assets/1af3299a-649a-406f-887f-8f06f051aa4a" />
+<img width="3128" height="1655" alt="plate" src="https://github.com/user-attachments/assets/5367d63c-3bd5-41e7-9c05-0644fcc9c6e0" />
 
 **Simple Motor Torque Tester**
 <img width="845" height="2084" alt="20260630_083635 crop" src="https://github.com/user-attachments/assets/48ec9306-b985-4e2c-8094-3474bdfe07e7" />
