@@ -3,7 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
-* Basic Hood for Sony 20-70mm F4 Lens: https://raphtronic.blogspot.com/2026/08/diy-basic-lens-hood-for-sony-20-70mm-f4.html
+* Basic Hoods for Sony 20-70mm F4 Lens: https://raphtronic.blogspot.com/2026/08/diy-basic-lens-hood-for-sony-20-70mm-f4.html
 * Phone Scan Holder (photogrammetry): https://raphtronic.blogspot.com/2026/07/diy-phone-holder-for-photogrammetry-3d.html
 * Simple Motor Torque Tester: https://raphtronic.blogspot.com/2026/06/diy-motor-torque-tester-3d-print.html
 * Dual Abnormal Cycloidal gear train: https://raphtronic.blogspot.com/2026/06/diy-dual-abnormal-cycloidal-gear-train.html
@@ -31,7 +31,7 @@ Feel free to copy, remix, whatever (non-commercially)
 
 Happy printing to all !
 
-**Basic Hood for Sony 20-70mm F4 Lens**
+**Basic Hoods for Sony 20-70mm F4 Lens**
 <img width="2085" height="2029" alt="20260713_192338 crop long hood" src="https://github.com/user-attachments/assets/6f3d2434-c713-4c8c-99cc-e1fd35e5053b" />
 <img width="2022" height="1666" alt="CAD" src="https://github.com/user-attachments/assets/b014ee5d-23aa-4e5c-8eea-aeacc85ef82c" />
 
