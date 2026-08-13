@@ -3,9 +3,10 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* Simple Motor Torque Tester for JCF63R: https://raphtronic.blogspot.com/2026/08/diy-simple-jcf63r-motor-torque-tester.html
 * Basic Hoods for Sony 20-70mm F4 Lens: https://raphtronic.blogspot.com/2026/08/diy-basic-lens-hood-for-sony-20-70mm-f4.html
 * Phone Scan Holder (photogrammetry): https://raphtronic.blogspot.com/2026/07/diy-phone-holder-for-photogrammetry-3d.html
-* Simple Motor Torque Tester: https://raphtronic.blogspot.com/2026/06/diy-motor-torque-tester-3d-print.html
+* Simple Motor Torque Tester for DC90: https://raphtronic.blogspot.com/2026/06/diy-motor-torque-tester-3d-print.html
 * Dual Abnormal Cycloidal gear train: https://raphtronic.blogspot.com/2026/06/diy-dual-abnormal-cycloidal-gear-train.html
 * Split-Ring Dual Joined-Cycloids gear train: https://raphtronic.blogspot.com/2026/05/diy-split-ring-dual-joined-cycloids.html
 * Dual Cycloidal drive: https://raphtronic.blogspot.com/2026/05/diy-dual-cycloidal-gear-train-with.html
@@ -30,6 +31,10 @@ Details and instructions in the following posts:
 Feel free to copy, remix, whatever (non-commercially)
 
 Happy printing to all !
+
+**Simple Motor Torque Tester for JCF63R**
+<img width="1423" height="1941" alt="20260812_141112 montage" src="https://github.com/user-attachments/assets/d7d4b891-58d7-4a37-9ed7-9d966f44ce2d" />
+<img width="3252" height="1364" alt="plate jcf63" src="https://github.com/user-attachments/assets/0935fb40-74bb-4b58-b3e1-a21fbdcbec74" />
 
 **Basic Hoods for Sony 20-70mm F4 Lens**
 <img width="2085" height="2029" alt="20260713_192338 crop long hood" src="https://github.com/user-attachments/assets/6f3d2434-c713-4c8c-99cc-e1fd35e5053b" />
