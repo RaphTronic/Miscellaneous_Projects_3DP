@@ -3,7 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
-* Simple Motor Torque Tester for JCF63R: https://raphtronic.blogspot.com/2026/08/diy-simple-jcf63r-motor-torque-tester.html
+* Simple Motor Torque Tester for JCF63: https://raphtronic.blogspot.com/2026/08/diy-simple-jcf63r-motor-torque-tester.html
 * Basic Hoods for Sony 20-70mm F4 Lens: https://raphtronic.blogspot.com/2026/08/diy-basic-lens-hood-for-sony-20-70mm-f4.html
 * Phone Scan Holder (photogrammetry): https://raphtronic.blogspot.com/2026/07/diy-phone-holder-for-photogrammetry-3d.html
 * Simple Motor Torque Tester for DC90: https://raphtronic.blogspot.com/2026/06/diy-motor-torque-tester-3d-print.html
@@ -32,7 +32,7 @@ Feel free to copy, remix, whatever (non-commercially)
 
 Happy printing to all !
 
-**Simple Motor Torque Tester for JCF63R**
+**Simple Motor Torque Tester for JCF63**
 <img width="1423" height="1941" alt="20260812_141112 montage" src="https://github.com/user-attachments/assets/d7d4b891-58d7-4a37-9ed7-9d966f44ce2d" />
 <img width="3252" height="1364" alt="plate jcf63" src="https://github.com/user-attachments/assets/0935fb40-74bb-4b58-b3e1-a21fbdcbec74" />
 
