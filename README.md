@@ -44,7 +44,7 @@ Happy printing to all !
 <img width="1770" height="2749" alt="3 phones rotate" src="https://github.com/user-attachments/assets/1af3299a-649a-406f-887f-8f06f051aa4a" />
 <img width="3128" height="1655" alt="plate" src="https://github.com/user-attachments/assets/5367d63c-3bd5-41e7-9c05-0644fcc9c6e0" />
 
-**Simple Motor Torque Tester**
+**Simple Motor Torque Tester for DC90**
 <img width="845" height="2084" alt="20260630_083635 crop" src="https://github.com/user-attachments/assets/48ec9306-b985-4e2c-8094-3474bdfe07e7" />
 <img width="2043" height="1713" alt="CAD Motor Tester exploded" src="https://github.com/user-attachments/assets/a335c13d-92f0-440d-8c85-161dfa0716df" />
 
