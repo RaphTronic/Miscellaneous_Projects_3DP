@@ -3,6 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* Cooler - Basic Parametric Model: https://raphtronic.blogspot.com/2026/08/diy-basic-parametric-cooler-3d-print.html
 * Simple Motor Torque Tester for JCF63: https://raphtronic.blogspot.com/2026/08/diy-simple-jcf63r-motor-torque-tester.html
 * Basic Hoods for Sony 20-70mm F4 Lens: https://raphtronic.blogspot.com/2026/08/diy-basic-lens-hood-for-sony-20-70mm-f4.html
 * Phone Scan Holder (photogrammetry): https://raphtronic.blogspot.com/2026/07/diy-phone-holder-for-photogrammetry-3d.html
@@ -31,6 +32,10 @@ Details and instructions in the following posts:
 Feel free to copy, remix, whatever (non-commercially)
 
 Happy printing to all !
+
+**Cooler - Basic Parametric Model**
+<img width="1741" height="1416" alt="20260812_115013 crop 2" src="https://github.com/user-attachments/assets/d6c6ff1e-349c-42e1-92e4-d2f639c1faf3" />
+<img width="3453" height="4647" alt="versions" src="https://github.com/user-attachments/assets/05575eed-c42e-4487-8f74-eead75bcbc18" />
 
 **Simple Motor Torque Tester for JCF63**
 <img width="1423" height="1941" alt="20260812_141112 montage" src="https://github.com/user-attachments/assets/d7d4b891-58d7-4a37-9ed7-9d966f44ce2d" />
