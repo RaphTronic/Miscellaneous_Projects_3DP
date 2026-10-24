@@ -3,6 +3,7 @@
 Repository for the CAD and 3D Print files from various small projects.
 
 Details and instructions in the following posts:
+* Portable 0-40v Power Supply: https://raphtronic.blogspot.com/2026/10/always-needed-portable-power-supply-to.html
 * Cooler - Basic Parametric Model: https://raphtronic.blogspot.com/2026/08/diy-basic-parametric-cooler-3d-print.html
 * Simple Motor Torque Tester for JCF63: https://raphtronic.blogspot.com/2026/08/diy-simple-jcf63r-motor-torque-tester.html
 * Basic Hoods for Sony 20-70mm F4 Lens: https://raphtronic.blogspot.com/2026/08/diy-basic-lens-hood-for-sony-20-70mm-f4.html
@@ -32,6 +33,10 @@ Details and instructions in the following posts:
 Feel free to copy, remix, whatever (non-commercially)
 
 Happy printing to all !
+
+**Portable 0-40v Power Supply**
+<img width="1579" height="1330" alt="20261020_120540 crop 2" src="https://github.com/user-attachments/assets/6d2f8cf6-ec2b-4b52-a81b-05490f0ab7ce" />
+<img width="2048" height="1293" alt="batt pwr convert schematics x2048" src="https://github.com/user-attachments/assets/0310a929-3147-4ce7-b6c6-f51fa37eeec9" />
 
 **Cooler - Basic Parametric Model**
 <img width="1741" height="1416" alt="20260812_115013 crop 2" src="https://github.com/user-attachments/assets/d6c6ff1e-349c-42e1-92e4-d2f639c1faf3" />
